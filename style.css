@@ -1,0 +1,22 @@
+#form{
+    display: grid;
+    justify-content: center;
+}
+
+input{
+    width: 500px;
+}
+
+textarea{
+    width: 500px;
+}
+
+button{
+    width: 150px;
+    height: 20px;
+    font-size: 13px;
+}
+
+h1{
+    padding-left: 420px;
+}
